@@ -7,7 +7,7 @@
 - SQL: MySQL, PostgreSQL, Google BigQuery
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
-- Machine Learning: Supervised Learning
+- Machine Learning: Supervised Learning with Scikit-learn
  
 ### **Projects for sharing**
 <a href="https://github.com/pth11/Python_RFM_Analysis">
