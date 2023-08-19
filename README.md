@@ -2,6 +2,7 @@
 *A fresher Data Analyst who loves to play with code and figures to create amazing stories*
 
 [in/pth11](https://www.linkedin.com/in/pth11/) - thuhuongphan11@gmail.com
+
 ***
 
 ### **Technical Skills**
@@ -9,7 +10,9 @@
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
 - Machine Learning: Supervised Learning with Scikit-learn
+
 ***
+
 ### **Featured Projects**
 <a href="https://github.com/pth11/Python_RFM_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
