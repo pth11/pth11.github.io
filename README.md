@@ -38,7 +38,7 @@
 ***
 
 ### **Education & Certificates**
-**Ho Chi Minh city University of Technology** - Industrial Management (_November 2020_)
+**Ho Chi Minh city University of Technology** - Industrial Management (_2016-2020_)
 
 GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
 
