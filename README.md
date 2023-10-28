@@ -1,5 +1,5 @@
-## Data Analyst
-*A fresher Data Analyst who loves to play with code and figures to create amazing stories*
+## Business Intelligence Consultant
+*I love to play with code and figures to create amazing stories*
 
 [in/pth11](https://www.linkedin.com/in/pth11/) - thuhuongphan11@gmail.com
 
