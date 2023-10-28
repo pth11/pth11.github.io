@@ -36,7 +36,9 @@
 </a>  
 
 ***
-
+### **Work experience**
+**Citek Technology Joint Stock Company** - Business Intelligence Consultant (_October 2023 - Present_)
+***
 ### **Education & Certificates**
 **Ho Chi Minh city University of Technology** - Industrial Management (_2016-2020_)
 
